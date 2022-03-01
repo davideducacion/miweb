@@ -17,4 +17,4 @@ Amor, esfuerzo y constancia
 * Universidad Nacional de Música
 
 ---
-Por [marvinbazan] (https://github.com/marvibazan)
+Por [marvinbazan](https://github.com/marvibazan)
