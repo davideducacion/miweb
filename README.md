@@ -2,7 +2,7 @@
 _Prueba para los siguientes proyectos en github_
 
 ## De qué va esto 🚀
-_Investigar toda tecnología que pueda servir para la educación musical en el mundo_
+_Investigar toda tecnología que pueda servir para mejorar la educación musical en el mundo_
 
 ### Pre-requisitos 📋
 _Qué cosas necesitas_
